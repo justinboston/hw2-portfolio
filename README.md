@@ -15,15 +15,15 @@ Published Site: https://justinboston.github.io/hw2-portfolio/
 GitHub Repo: https://github.com/justinboston/hw2-portfolio
 
 ## Acceptance Criteria
-
-<ul>Includes the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them</ul>
-</ul> Header nav bar that links to the section about their work</ul>
-<ul> UI scrolls to a section with titled images of the developer's applications</ul>
-<ul> One application's image should be larger in size than the others</ul>
-<ul>Click on the images of the applications takes the user to that deployed application</ul>
-<ul>Resizing the page to view the site on various screens and devices</ul>
-<ul>A responsive layout that adapts to my viewport</ul>
-```
+<ul>
+<li>Includes the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them</li>
+<li> Header nav bar that links to the section about their work</li>
+<li> UI scrolls to a section with titled images of the developer's applications</li>
+<li> One application's image should be larger in size than the others</li>
+<li>Click on the images of the applications takes the user to that deployed application</li>
+<li>Resizing the page to view the site on various screens and devices</li>
+<li>A responsive layout that adapts to my viewport</li>
+</ul>
 
 
 ## Mock-Up
